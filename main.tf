@@ -12,7 +12,7 @@ provider "aws" {
   region = "eu-central-1"
   default_tags {
     tags = {
-        Owner = "elena_tarasova@epam.com"
+        Owner = "elt@pam.com"
     }
   }
 }
